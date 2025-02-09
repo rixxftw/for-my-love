@@ -5,7 +5,7 @@
   <title>For My BABY DINO</title>
   <style>
     body {
-      font-family: 'Ophelia Lark';
+      font-family: 'American Typewriter';
       text-align: center;
       background-color: #FFa07a;
       color: #8B0000;
