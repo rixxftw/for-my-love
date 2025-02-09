@@ -30,8 +30,8 @@
       margin-bottom: 30px;
     }
     img {
-      width: 150px;
-      height: 150px;
+      width: 200px;
+      height: 200px;
       border-radius: 0%;
       object-fit: cover;
       margin-bottom: 30px;
