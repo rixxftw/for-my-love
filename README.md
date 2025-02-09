@@ -97,7 +97,6 @@
   <div class="slide">
     <h1>You Mean Everything to Me Re</h1>
     <p>Infact, i think our fate ends with us, 
-    <br>
     since no matter how many arguments we went through, 
     our love for eachother did remain the same right?</p>
     <img src="picone.jpg" alt="Our Photo">
