@@ -31,8 +31,8 @@
       margin-bottom: 30px;
     }
     img {
-      width: 200px;
-      height: 200px;
+      width: 150px;
+      height: 150px;
       border-radius: 0%;
       object-fit: cover;
       margin-bottom: 30px;
